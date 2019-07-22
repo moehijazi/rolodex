@@ -1,7 +1,7 @@
 {
   "name": "monsters",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://moehijazi.github.io/rolodex",
   "dependencies": {
     "gh-pages": "^2.0.1",
